@@ -123,6 +123,6 @@ body::after{
         transform: rotate(180deg);
     }
     .main{
-        max-width: 450px;
+        max-width: 400px;
     }
 }
