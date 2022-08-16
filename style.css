@@ -84,7 +84,6 @@ body::after{
 .name p{
     margin-left: 0.5em;
     color: hsl(0, 0%, 59%);
-    padding-bottom: 1em;
 }
 
 .stats{
